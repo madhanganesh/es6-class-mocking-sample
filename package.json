@@ -1,0 +1,23 @@
+{
+  "name": "es6-class-mocking-sample",
+  "version": "0.0.1",
+  "description": "code sample to illustrate how to mock es6 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "es6",
+    "class",
+    "sinon",
+    "mock",
+    "sample"
+  ],
+  "author": "madhanganesh@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.3"
+  }
+}
